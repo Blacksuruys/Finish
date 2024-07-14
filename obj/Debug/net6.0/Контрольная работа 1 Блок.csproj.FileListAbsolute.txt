@@ -1,0 +1,15 @@
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\bin\Debug\net6.0\Контрольная работа 1 Блок.exe
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\bin\Debug\net6.0\Контрольная работа 1 Блок.deps.json
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\bin\Debug\net6.0\Контрольная работа 1 Блок.runtimeconfig.json
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\bin\Debug\net6.0\Контрольная работа 1 Блок.dll
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\bin\Debug\net6.0\Контрольная работа 1 Блок.pdb
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.csproj.AssemblyReference.cache
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.AssemblyInfoInputs.cache
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.AssemblyInfo.cs
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.dll
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\refint\Контрольная работа 1 Блок.dll
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.pdb
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\Контрольная работа 1 Блок.genruntimeconfig.cache
+C:\Users\black\Desktop\Учеба\Lesson C#\FinishBlockOne\obj\Debug\net6.0\ref\Контрольная работа 1 Блок.dll
